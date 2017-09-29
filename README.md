@@ -17,6 +17,6 @@ usage:
 from command line
 pilfer -i video-file-name.txt -t 00:00:00 where (00:00:00 is the duration)
 
-<a href=https://github.com/t3rmin8tor/pilfer-installer/releases">info and screenshots</a>
+<a href=https://github.com/t3rmin8tor/pilfer-installer/releases>info and screenshots</a>
 
 <a href=https://github.com/t3rmin8tor/pilfer-installer/releases/download/v1.2/pilfer-installer-v1.2.exe>Download pilfer-installer-v1.2</a>
