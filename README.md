@@ -36,4 +36,4 @@ pilfer -i video-file-name.txt -t 00:00:00 where (00:00:00 is the duration)
 
 <a href=https://github.com/t3rmin8tor/pilfer-installer/releases>info and screenshots</a>
 
-<a href=https://github.com/t3rmin8tor/pilfer-installer/releases/download/v1.2/pilfer-installer-v1.2.exe>Download pilfer-installer-v1.2</a>
+<a href=https://github.com/t3rmin8tor/pilfer-installer/releases/download/1.4/pilfer-1.4-install-64bit.exe">Download pilfer-installer-v1.4</a>
