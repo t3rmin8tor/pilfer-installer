@@ -2,6 +2,7 @@
 updated scheduler to allow setting schedules using:
 
 video-url-file.txt
+
 full url eg http://some-url.com/file/12345.m3u8
 
 
