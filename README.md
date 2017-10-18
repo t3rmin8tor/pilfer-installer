@@ -37,6 +37,8 @@ added config file to make mpv player work propperly
 fixed error in playercorefactory.xml
 added advancedsettings.xml to kodi to fix buffer issues 
 
+<a href='https://www.youtube.com/watch?v=I73WyQw1d4U'>official install video created by NapoleonWils0n</a>
+
 usage:
 
 from command line
