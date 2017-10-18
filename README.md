@@ -34,4 +34,6 @@ usage:
 from command line
 pilfer -i video-file-name.txt -t 00:00:00 where (00:00:00 is the duration)
 
-<a href='https://github.com/t3rmin8tor/pilfer-installer/releases/download/1.4/pilfer-1.4-install-32bit.exe'>pilfer 1.4 32bit official release</a> 
+<a href='https://github.com/t3rmin8tor/pilfer-installer/releases/download/1.4/pilfer-1.4-install-32bit.exe'>pilfer 1.4 32bit official release</a>
+
+<a href='https://github.com/t3rmin8tor/pilfer-installer/releases/tag/1.5'>Pilfer-Gui-update-1.5</a>
