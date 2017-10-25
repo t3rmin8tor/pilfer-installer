@@ -1,6 +1,9 @@
 # Pilfer-Gui-updated to 1.6
 
 <a href='https://github.com/t3rmin8tor/pilfer-installer/releases/download/1.6/pilfer-gui-update-1.6.exe'>pilfer-Gui-1.6</a>
+
+added option to move complated recordings from desktop to pilfer Library
+added shortcut to pilfer Library on Desktop
 updated scheduler to allow setting schedules using:
 
 video-url-file.txt
