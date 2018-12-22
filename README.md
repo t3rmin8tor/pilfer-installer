@@ -1,3 +1,34 @@
+# Dec 22 2018
+
+
+
+# Pilfer v 3.0
+
+new single installer combining all updates from v1.4 to v 2.0
+included updates in this release:-
+
+environment now directly set in registry
+uninstaller now auto cleans pilfer registry settings
+making reinstalation simpler
+
+option to move recorded files from desktop to pilfer library
+shortcut to pilfer library added on desktop
+shortcut to mpv player
+
+record video or audio option
+planner updated last windows 10 update created some issues with scheduled tasks where scheduled recording were failing
+
+
+
+
+
+
+
+
+
+
+
+
 # pilfer upgrade to version 2.0
 
 <a href="https://github.com/t3rmin8tor/pilfer-installer/releases/download/2.0/pilfer-upgrade-v2.0.exe">pilfer upgrade v2.0</a>
