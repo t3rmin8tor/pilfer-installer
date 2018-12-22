@@ -4,6 +4,8 @@
 
 # Pilfer v 3.0
 
+<a href='https://github.com/t3rmin8tor/pilfer-installer/releases/download/v3.0/pilfer-install-v3.0.exe'>pilfer-install-v3.0.exe</a>
+
 new single installer combining all updates from v1.4 to v 2.0
 included updates in this release:-
 
