@@ -1,12 +1,12 @@
 
 # PILFER VERSION 4.0 64BIT ONLY 
 
-completely re built to use kodi leia 18.2 64bit which impliments cryptodome
-uses ------
-python 3.6.8 64bit
-ffmpeg 64bit
-git 2.21.0-64-bit
-rtmpdump-2.4 64-bit 
+completely re built to use kodi leia 18.2 64bit which impliments cryptodome <br>
+uses ------<br>
+python 3.6.8 64bit<br>
+ffmpeg 64bit<br>
+git 2.21.0-64-bit<br>
+rtmpdump-2.4 64-bit<br> 
 
 <a href="https://github.com/t3rmin8tor/pilfer-installer/releases/download/v4.0/pilfer-install-v4.0-64bit.exe">PILFER VERSION 4.0 64BIT ONLY</a>
 
