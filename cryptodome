@@ -1,0 +1,15 @@
+script addon to add cryptodome functionality to kodi 17 32bit
+
+Steps to install
+
+1 download the script.module.pycryptodome.zip file
+2 install the addon via install from file 
+3 navigate to appdata\roaming\kodi\addons
+4 select the addon that you want to add cryptodome to 
+5 edit the addon.xml for the addon
+6  Add the following to your addon.xml between the "requires" tags:
+
+<import addon="script.module.pycryptodome" version="1.0.0"/>
+
+from this point on if any addon spits ot an error about cryptodome 
+refere to points 5 and 6 
